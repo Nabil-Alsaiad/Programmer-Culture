@@ -1,0 +1,15 @@
+{
+    "validateDirectives": true,
+    "caseSensitive"     : true,
+    "language"          : "en-GB,ar",
+    
+    "files": [
+        "**/*.md"
+    ],
+    "words": [
+        "anim",
+        "env",
+        "req",
+        "str"
+    ]
+}
