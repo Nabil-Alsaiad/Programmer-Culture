@@ -1,0 +1,24 @@
+{
+    "editor.formatOnSave"    : true,
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+
+    "markdown.occurrencesHighlight.enabled"                 : true,
+    "markdown.extension.tableFormatter.normalizeIndentation": true,
+
+    "markdownlint.run": "onSave",
+
+    "cSpell.autoFormatConfigFile"        : true,
+    "cSpell.showAutocompleteSuggestions" : true,
+    "cSpell.checkOnlyEnabledFileTypes"   : true,
+    "cSpell.spellCheckOnlyWorkspaceFiles": true,
+    
+    "betterAlign.alignAfterTypeEnter": true,
+    "betterAlign.indentBase"         : "dontchange",
+    "betterAlign.operatorPadding"    : "right",
+    "betterAlign.surroundSpace"      : {
+        "colon"     : [0, 1],
+        "assignment": [1, 1],
+        "arrow"     : [2, 2],
+        "comment"   : 2
+    }
+}
